@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karthikkalpathy
-- 👀 I’m interested in cloud security, security architecture
+- 👀 I’m interested in Azure and GCP security, security architecture
 - 🌱 I’m currently learning cybersecurity, 
 - 💞️ I’m looking to collaborate on azure and gcp security practices
 
